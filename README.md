@@ -26,11 +26,10 @@
 # Here is how it looks
 
 
-![Screenshot (239)](https://user-images.githubusercontent.com/69048354/187523730-879cd27b-27b7-4e97-ad29-98110310a141.png)
-![Screenshot (240)](https://user-images.githubusercontent.com/69048354/187523752-d9495409-31d1-4e24-b2f4![Screenshot (242)](https://user-images.githubusercontent.com/69048354/187523780-05c6d09a-1926-49ed-9757-e3217ed2fc9f.png)
--da0705772f8f.png)
-![Screenshot (243)](https://user-images.githubusercontent.com/69048354/187523802-b3aa4e4b-8a43-4391-a5e8-a![Screenshot (244)](https://user-images.githubusercontent.com/69048354/187523814-4403ad01-4f1c-4d75-ae5e-b8cbdf939b82.png)
-f9423bf3d0b.png)
-![Screenshot (245)](https://user-images.githubusercontent.com/69048354/187523829-ce24baca-4aea-4134-be8f-26![Screenshot (246)](https://user-images.githubusercontent.com/69048354/187523841-a39483e7-c213-410c-ae1e-4be2bce5aa26.png)
-c98c14b0c7.png)
 
+![Screenshot (245)](https://user-images.githubusercontent.com/69048354/187523995-3c789d79-ad21-4017-8714-a502c51c92c4.png)
+![Screenshot (246)](https://user-images.githubusercontent.com/69048354/187524000-23af2d00-5296-4d64-ab6a-fc92fb5b8368.png)
+![Screenshot (239)](https://user-images.githubusercontent.com/69048354/187524005-d17701f7-df37-4b99-bbf2-0bf7c0b2e46d.png)
+![Screenshot (242)](https://user-images.githubusercontent.com/69048354/187524008-e6b6ac10-558e-45d5-881f-9c83f5dd5c39.png)
+![Screenshot (243)](https://user-images.githubusercontent.com/69048354/187524014-9a5751fc-02e2-43e8-9e76-2c86b8f575b1.png)
+![Screenshot (244)](https://user-images.githubusercontent.com/69048354/187524015-b614674b-7ac1-4cff-897e-ea6479052ffc.png)
