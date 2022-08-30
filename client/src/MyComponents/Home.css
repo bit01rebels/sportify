@@ -1,0 +1,18 @@
+.w-100 {
+  width: 92% !important;
+  height: 90%;
+  margin-left: 4rem;
+}
+
+.carousel-item{
+  height: 800px;
+}
+
+.carousel-caption
+{
+  top: 40%;
+}
+
+#crtext{
+  color: white;
+}
