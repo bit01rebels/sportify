@@ -117,7 +117,7 @@ function App() {
                 <a
                   className="nav-link active"
                   // href="C:\Users\ashis\Desktop\ocr camera\JS-OCR-demo\index.html"
-                  href="file:///C:\Users\Subin\Desktop\ocr%20camera\JS-OCR-demo\index.html"
+                  href="file:///E:/bit_rebels/ocr%20camera/JS-OCR-demo/index.html"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
